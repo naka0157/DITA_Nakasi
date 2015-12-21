@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd" []>
+
+<task id="caption">
+<title>How to add a caption to an image</title>
+<shortdesc>
+  This document demonstrates how to add caption to an image
+</shortdesc>
+
+<taskbody>
+<context>
+  <p>A few things needed to complete this task include:</p>
+  <ul>
+    <li href=Prepare the Image you want to add to the page></li>
+    <li href=Decide on how you want it to look like on the page></li>
+    <li href=Come up with a caption that describes the image></li>
+  </ul>
+</context>
+  <steps>
+    <step>
+     <cmd>Add a figure to the page(It can be an image, graph, map etc.).</cmd>
+      <substeps>
+        <substep>
+          <cmd>In the figure element, introduce figurecaption element</cmd>
+        </substep>
+        <substep>
+          <cmd>Add a caption to the image. The caption should be short and straight forward to the reader.</cmd>
+        </substep>
+        <substep>
+          <cmd>Format the caption using CSS (font-style, font-variant).</cmd>
+        </substep>
+        </substeps>
+    </step>
+    <step>
+      <cmd>Use CSS display to move the image to the desired block. For example, display:block will move the figure and figure caption to a block and stack them on top of each other.</cmd>
+    </step>
+</steps>
+</taskbody>
+</task>

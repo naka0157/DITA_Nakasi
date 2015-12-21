@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/concept.dtd">
+
+<concept id="figure_and_figurecaption_intro">
+    <title>Figure and FigureCaption</title>
+    <shortdesc>A brief introduction of the figure and figure caption, and how they are ued in HTML5.</shortdesc>
+    <conbody>
+        <p>Figure and figure caption are two elements that were introduced in HTML5. Figure is used to reference something in the article for example images, graphs, videos, diagrams, and e.tc. Figure Caption goes hand in hand with figure element. Every time the figure element is used anywhere; a figure caption with an explanation of the figure should always follow. The way images with “captions” on the page looked before the figure and figure caption were introduced was slightly different, but they made a huge change. Images with captions on HTML pages now days look more like they do in print media like magazines, books, and newspapers.</p>
+        <p>Before the introduction of the figure and figure caption, there were other ways images, videos, graphs, and diagrams etc. could be used in HTML. For example, every time an image was introduced in an HTML page, the img element was used. The image element was not completely replaced when the figure and figure caption were introduced. HTML5 just introduced what most people consider better ways to use it in a page that makes it look better, and perform other tasks that were not possible before. Figure and figure caption were introduced to help improve the image element and how it is used. Image element is still an important part of the figure element. When the figure element is introduced, the img element comes next, and the caption that follows the image. There is still no way the figure element can be used without the image element.</p>
+         </conbody>
+</concept>

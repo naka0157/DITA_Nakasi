@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd" []>
+
+<task id="wrap_code">
+<title>How to wrap your code with the figure element</title>
+<shortdesc>
+  This document demonstrates how to wrap code within the figure element, and adding a caption to the code.
+</shortdesc>
+<taskbody>
+<context>
+  <p>A few things needed to complete this task include:</p>
+  <ul>
+    <li href=Decide on the piece of code that you want to add to the figure element></li>
+    <li href=Decide on how you want it to look like on the page></li>
+    <li href=Come up with a caption that describes the code></li>
+  </ul>
+</context>
+  <steps>
+    <step>
+     <cmd>Inside the figure element add the paragraph tag</cmd>
+      <substeps>
+        <substep>
+          <cmd>Inside the paragraph tag, add the code tag and write whatever you want the code to say</cmd>
+        </substep>
+        <substep>
+          <cmd>Close the code, and paragraph tags</cmd>
+        </substep>
+        <substep>
+          <cmd>Inside the figure element, add a figure caption describing what you just did. This caption should be outsie the paragraph and code tags, but inside the figure element.</cmd>
+        </substep>
+        </substeps>
+    </step>
+</steps>
+</taskbody>
+</task>

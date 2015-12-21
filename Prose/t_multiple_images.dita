@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd" []>
+
+<task id="multiple_images">
+<title>How to use the figure element with multiple images</title>
+<shortdesc>
+  This document demonstrates how to add multiple images inside the figure element with one caption
+</shortdesc>
+<taskbody>
+<context>
+  <p>A few things needed to complete this task include:</p>
+  <ul>
+    <li href=Prepare the Images you want to add to the page></li>
+    <li href=Decide on how you want it to look like on the page></li>
+    <li href=Come up with a caption that describes the images></li>
+  </ul>
+</context>
+  <steps>
+    <step>
+     <cmd>Add the images in the figure element. Remember to number the imgaes 1 through however many you decide to have in the figure element. Numbering the images will be important when it comes to time for adding a caption</cmd>
+      <substeps>
+        <substep>
+          <cmd>Since only one caption can be used in the figure element, add one figure caption for all the images. You may either refer to them as “figure 1, figure 2” et.c, or come up with something related to that. Or the caption may simply say, “Images grouped together represented above…”</cmd>
+        </substep>
+        <substep>
+          <cmd>If you want other people to find more information about the images, add a link inside the figure caption</cmd>
+        </substep>
+        <substep>
+          <cmd>Make sure the images are formated in proper blocks, with proper fonts, stlye etc.</cmd>
+        </substep>
+        </substeps>
+    </step>
+    <step>
+      <cmd>Use CSS display to move the image to the desired block. For example, display:block will move the figure and figure caption to a block and stack them on top of each other.</cmd>
+    </step>
+</steps>
+</taskbody>
+</task>
