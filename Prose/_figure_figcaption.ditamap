@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/map.dtd">
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/map.dtd">
 
 <map title="DITA Topic Map">
-	<title> Using the Figure and FigureCaption Element</title>
-	<topicref href="c_figure_and_figurecaption_intro.dita"></topicref>
-	<topicref href="t_caption.dita"></topicref>
-	<topicref href="t_wrap_code.dita"></topicref>
-	<topicref href="t_multiple_images.dita"></topicref>
-	<topicref href="r_sources.dita"></topicref>
+    <title>Using the Figure and FigureCaption Elements in HTML5</title>
+    <topicref href="c_figure_and_figurecaption_intro.dita"></topicref>
+    <topicref href="t_caption.dita"></topicref>
+    <topicref href="t_wrap_code.dita"></topicref>
+    <topicref href="t_multiple_images.dita"></topicref>
+    <topicref href="r_sources.dita"></topicref>
 </map>

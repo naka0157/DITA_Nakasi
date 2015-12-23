@@ -1,35 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/reference.dtd">
 
-<reference id="sources">
-    <title>Sources for some information</title>
-    <shortdesc>A list of some of the sources where some information on the page was obtained</shortdesc>
-    <refbody>
-      <prolog>
-        <title>Home and Learn free computer sources</title>
-      <copyright>
-          <copyrholder>Home and Learn</copyrholder>
-        </copyright>
-      </prolog>
-      <prolog>
-        <author>Sam Berson</author>
-        <title>Quick Tip: Consider Wrapping Your Code With a “figure” Element.</title>
-      <copyright>
-          <copyrholder>evantotuts+</copyrholder>
-        </copyright>
-      </prolog>
-      <prolog>
-        <author>Richard Clark</author>
-        <title>The figure and figcaption elements</title>
-        <copyright>
-          <copyryear year="2010"/>
-          <copyrholder>html5 Doctor</copyrholder>
-        </copyright>
-      </prolog>
-    </refbody>
-    <related-links>
-    <link href="http://www.homeandlearn.co.uk/WD/wds4p9.html"/>
-    <link href="http://webdesign.tutsplus.com/tutorials/quick-tip-consider-wrapping-your-code-with-a-figure-element--cms-21646"/>
-    <link href="http://html5doctor.com/the-figure-figcaption-elements/"/>
-  </related-links>
+<reference id="r_sources" xml:lang="en-us">
+  <title>Resources Used</title>
+  <shortdesc>A list of some of the sources where some information on the page was obtained</shortdesc>
+  <refbody>
+  <section>
+  <title> Websites </title>
+    <ul>
+		      <li>http://www.homeandlearn.co.uk/WD/wds4p9.html</li>
+		      <li>http://webdesign.tutsplus.com/tutorials/quick-tip-consider-wrapping-your-code-with-a-figure-element--cms-21646</li>
+          <li>http://html5doctor.com/the-figure-figcaption-elements/</li></ul>
+
+	<note>The resources provide general information about the figure and figure caption. If more clarification is needed for some of the tasks, the resources are a good place to look.</note></section>
+
+  </refbody>
 </reference>

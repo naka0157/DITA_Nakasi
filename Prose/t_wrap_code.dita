@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd" []>
 
 <task id="wrap_code">
-<title>How to wrap your code with the figure element</title>
+<title>How to wrap code with the figure element</title>
 <shortdesc>
   This document demonstrates how to wrap code within the figure element, and adding a caption to the code.
 </shortdesc>
@@ -25,10 +25,10 @@
         <substep>
           <cmd>Close the code, and paragraph tags</cmd>
         </substep>
-        <substep>
-          <cmd>Inside the figure element, add a figure caption describing what you just did. This caption should be outsie the paragraph and code tags, but inside the figure element.</cmd>
-        </substep>
         </substeps>
+    </step>
+    <step>
+      <cmd>Inside the figure element, add a figure caption describing what you just did. This caption should be outsie the paragraph and code tags, but inside the figure element.</cmd>
     </step>
 </steps>
 </taskbody>
